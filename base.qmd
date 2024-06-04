@@ -1,0 +1,15 @@
+---
+title: "Place Holder"
+
+author: "Wassim Kabalan"
+format:
+  revealjs:
+    theme: custom.scss
+    incremental: false   
+    transition: slide
+    background-transition: slide
+title-slide-attributes:
+  data-background-image: "assets/img.png"
+  data-background-size: fill
+  data-background-opacity: "0.5"
+---
